@@ -1,6 +1,13 @@
+# Know
 - C
 - C++
-- C#
+- C# (.NET)
 - Java
 - Python
 - Rust
+
+# Goal
+- Webdev
+- Advanced DB
+- Haskell
+- Exploits/Cybersecurity
