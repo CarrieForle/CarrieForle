@@ -7,7 +7,7 @@
 - Rust
 
 # Goal
-- Webdev
+- Webdev (HTML/CSS/JS/TS)
 - Advanced DB
 - Haskell
 - Exploits/Cybersecurity
