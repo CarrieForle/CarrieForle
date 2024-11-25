@@ -3,7 +3,7 @@
 - C++
 - C# (.NET)
 - Java
-- Python
+- Python 3
 - Rust
 - Haskell (Basics of FP)
 
