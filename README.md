@@ -11,4 +11,6 @@
 - Webdev (HTML/CSS/Js/Ts)
 - Advanced DB
 - Advanced FP and declarative programming in general
+- Bash
+- Powershell
 - Exploits/Cybersecurity
