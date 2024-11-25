@@ -5,9 +5,10 @@
 - Java
 - Python
 - Rust
+- Haskell (Basics of FP)
 
 # Goal
 - Webdev (HTML/CSS/Js/Ts)
 - Advanced DB
-- Haskell
+- Advanced FP and declarative programming in general
 - Exploits/Cybersecurity
