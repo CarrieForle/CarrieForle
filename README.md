@@ -13,4 +13,6 @@
 - Advanced FP and declarative programming in general
 - Bash
 - Powershell
+- Concurrent programming
+- Contribute to FOSS
 - Exploits/Cybersecurity
