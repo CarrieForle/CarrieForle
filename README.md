@@ -6,13 +6,14 @@
 - Python 3
 - Rust
 - Haskell (Basics of FP)
+- gRPC (Novice)
+- Powershell (except WMI/CIM)
 
 # Goal
 - Webdev (HTML/CSS/Js/Ts)
-- Advanced DB
+- Advanced RDBMS and SQL optimization
 - Advanced FP and declarative programming in general
 - Bash
-- Powershell
 - Concurrent programming
 - Contribute to FOSS
 - Exploits/Cybersecurity
