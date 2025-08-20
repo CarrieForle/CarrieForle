@@ -10,10 +10,9 @@
 - Powershell (except WMI/CIM)
 
 # Goal
-- Webdev (HTML/CSS/Js/Ts)
+- Javascript/Typescript
 - Advanced RDBMS and SQL optimization
 - Advanced FP and declarative programming in general
 - Bash
 - Concurrent programming
-- Contribute to FOSS
 - Exploits/Cybersecurity
