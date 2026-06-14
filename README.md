@@ -16,3 +16,4 @@ or
 - Bash
 - Concurrent programming
 - Exploits/Cybersecurity
+- Become a long-time contributor of a FOSS project that is not mine.
